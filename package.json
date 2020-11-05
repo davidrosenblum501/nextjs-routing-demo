@@ -1,0 +1,27 @@
+{
+  "name": "next-routing-demo",
+  "version": "1.0.0",
+  "description": "Next.js routing example",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Rosenblum",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1",
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.6",
+    "babel-plugin-styled-components": "^1.11.1"
+  }
+}
